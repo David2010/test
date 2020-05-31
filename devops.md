@@ -1,0 +1,5 @@
+* [DevOps Pillars & Capabilites](https://docs.microsoft.com/en-us/learn/paths/devops-dojo-white-belt-foundation/)
+* [DevOps Checklist](https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops)
+* [Continuous Devliery Book](https://www.thoughtworks.com/continuous-delivery)
+* [DevOps Handbook](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
+* [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://nicolefv.com/book/)
